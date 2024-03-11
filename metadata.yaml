@@ -1,0 +1,39 @@
+_repo: Kaunotar_73129
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+    wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: ''
+gutenberg_issued: '2024-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73129'
+language: fi
+pgterms:marc905: 20240112010101burnett
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kaunotar
+url: http://www.gutenberg.org/ebooks/73129
