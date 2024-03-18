@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
     wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burnett, Frances Hodgson
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/73
     wikipedia: https://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73129#Kaunotar
 gutenberg_issued: '2024-03-09'
 gutenberg_type: Text
 identifiers:
